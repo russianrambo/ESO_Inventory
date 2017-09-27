@@ -1,2 +1,1 @@
-This folder contains another copy of 'ESO_resources' 
-in order for the generated '.exe' file to function properly.
+This folder contains another copy of 'ESO_resources' in order for the generated 'sfmlProject.exe' to function properly.
