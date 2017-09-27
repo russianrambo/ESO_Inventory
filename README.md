@@ -17,9 +17,9 @@ Limitations:
 Note: The images I used in the project had been cut out of screenshots directly, so some things might not look pretty, but the whole program works fine without any issues so far.
 
 Controls:<br>
-Alt + Enter -> Full Screen Mode/Windowed Mode.
-Double-click or drag an item to equip it.
-Double-click an equipped item to unequip it.
+Alt + Enter -> Full Screen Mode/Windowed Mode.<br>
+Double-click or drag an item to equip it.<br>
+Double-click an equipped item to unequip it.<br>
 Esc to exit.
 
 ### By Andrei Voinov
