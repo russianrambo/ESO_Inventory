@@ -1,0 +1,2 @@
+This folder contains another copy of 'ESO_resources' 
+in order for the generated '.exe' file to function properly.
