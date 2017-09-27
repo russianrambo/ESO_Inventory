@@ -22,4 +22,4 @@ Double-click or drag an item to equip it.
 Double-click an equipped item to unequip it.
 Esc to exit.
 
-# By Andrei Voinov
+## By Andrei Voinov
