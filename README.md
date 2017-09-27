@@ -23,4 +23,6 @@ Controls:<br>
 &ensp;Double-click an equipped item to unequip it.<br>
 &ensp;Esc to exit.
 
+<b>There is 'sfmlProject.exe' inside of 'Debug' folder which can be launched without any need to recompile the program. I made it available because in order to compile the project one would need SFML libraries of version 2.4.2. Note that 'ESO_resources' with all of its contents is required for the program to work and is supposed to be in the same directory as the executable file.</b>
+
 ### By Andrei Voinov
