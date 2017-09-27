@@ -13,6 +13,7 @@ Limitations:
 2. Not all inventory tabs are available. Right now there is no need to have more than 3 which are already there.
 3. There are minor differences in how the toggle button works when switching between 2 sets of weapons.
 4. You can't drag items out the equipment slots. The only way to unequip an item is to double-click it with LMB.
+5. A scrollbar and inventory sorting have not been implemented yet.
 
 Note: The images I used in the project had been cut out of screenshots directly, so some things might not look pretty, but the whole program works fine without any issues so far.
 
